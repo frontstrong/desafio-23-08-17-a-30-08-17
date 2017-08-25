@@ -12,3 +12,5 @@ O layout é livre, o foco é o código Javascript.
 Fácil né \o/!
 
 O objetivo é analisar varias formas de resolver o mesmo problema com lógicas diferentes.
+
+Resultados na wiki desse repositório.
